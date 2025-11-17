@@ -69,3 +69,6 @@ Now everything should have its proper cad model, all remaining is finish setting
 
 Finished Model (Minus 3D Printed Holders and Airhose)
 <img width="1096" height="724" alt="image" src="https://github.com/user-attachments/assets/3cdbc428-3d8c-4334-95df-06218e2361d2" />
+
+With Airhose
+<img width="956" height="783" alt="image" src="https://github.com/user-attachments/assets/d704fb0c-eca4-4b02-9bd8-224beb7f70dc" />
