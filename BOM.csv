@@ -1,0 +1,23 @@
+Bill Of Materials,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Product Name,,Product Link,,Unit Cost,,Product Amount,,Total Cost,,Use of Product,,,Plumbing Parts
+,,,,,,,,,,,,,
+"Standard-Wall Brass Pipe Nipple Threaded on Both Ends, 1/8 NPT, 2"" Long",,https://www.mcmaster.com/4568K113,,$2.82,,3,,$9.07,,"Connectors for each of the air tanks, one for the main and one for each firing tank.",,,PVC Parts
+"304 Stainless Steel Threaded Pipe Fitting Low-Pressure, 90 Degree Adapter, 1/8 NPT Female x Male",,https://www.mcmaster.com/4464K35,,$7.82,,2,,$16.77,,"Connected to the valves, used to face foward so the air hoses aren't making sharp turns. (For safety basically)",,,
+"304 Stainless Steel Threaded Pipe Fitting, Low-Pressure, Tee Connector, 1/8 NPT Female",,https://www.mcmaster.com/4464K47,,$7.80,,1,,$8.37,,"Connected to the nipple on the main tank, splits the air into 2 valves.",,,Building Utilities 
+"EPDM Rubber Air Hose with 1/8 x 1/8 NPTF Brass Male Fittings, 200 PSI Red 1ft, Red",,https://www.mcmaster.com/1593N45-5138K387,,$9.77,,2,,$20.96,,Hoses that connect from the 90 degree brass fittings to the firing tanks.,,,
+"Short Lever Handle, 1/8 NPT Female",,https://www.mcmaster.com/4912K31,,$8.37,,2,,$17.95,,"Connnected to the Tee Fitting, used to control air flow into the firing tanks.",,,Other
+Standard-Wall 304/304L Stainless Steel Pipe Nipple,,https://www.mcmaster.com/4830K171,,$2.77,,4,,$11.88,,Connects to the ball valves on firing mechanisms,,,
+Brass Body On/Off Valve with T-Handle 1/2 NPT Female,,https://www.mcmaster.com/4082T14,,$11.91,,2,,$25.55,,Firing Valves for Each Barrel.,,,
+"Standard-Wall 304/304L Stainless Steel Pipe Nipple Fully Threaded, 1/8 NPT, 3/4"" Long",,https://www.mcmaster.com/4830K111,,$2.27,,2,,$4.87,,Connects to the tee connector and valve,,,
+"1-1/2"" x 1/2"" Schedule 40 PVC Reducer Bushing - Spigot x FIPT",,https://www.mcmaster.com/4880K212,,$3.50,,4,,$15.02,,Connector to the nipples of the ball valves,,,
+"3"" Schedule 40 White PVC Pipe 4004-030AB - 5ft",,https://www.pvcfittingsonline.com/collections/schedule-40-pvc-pipe/products/4004-030ab-3-schedule-40-pvc-pipe-5-ft-section,,$37.10,,1,,$39.79,,"Long enough for the 1ft barrels, and the firing air tanks.",,,
+"3"" Sch 40 PVC Cap - Socket 447-030",,https://www.pvcfittingsonline.com/collections/sch-40-pvc-caps/products/447-030-3-schedule-40-pvc-cap,,$3.82,,2,,$8.19,,Connects to the end of the firing tanks.,,,
+"4"" Sch 40 PVC Cap - Socket 447-040",,https://www.pvcfittingsonline.com/collections/sch-40-pvc-caps/products/447-040-4-schedule-40-pvc-cap,,$8.75,,2,,$18.77,,For the Main Firing Tank.,,,
+"Standard-Wall, Reducer, 3 x 2 Female Socket Connect",,https://www.mcmaster.com/2389K75,,$11.66,,4,,$50.02,,Connects the firing air tanks to the firing valves,,,
+"4 Pipe Size, 2 Feet Long",,https://www.mcmaster.com/48925K308,,$31.10,,1,,$33.35,,Main Firing Tank,,,
+"1/8 NPT Male Center Back Connection, 1-1/2"" Dial",,https://www.mcmaster.com/40565K592-40565K637,,$13.08,,3,,$42.08,,For measuring all the PSI of the 3 tanks.,,,
+"Air Fill Valve, Nickel-Plated Brass, NPT x 3/8"" Long Schrader, 200 PSI",,https://www.mcmaster.com/products/8063K12,,$3.35,,1,,$3.59,,For pumping up the main tank.,,,
+,,,,,,,,Total Cost,,,,,
+,,,,,,,,$326.24,,,,,
