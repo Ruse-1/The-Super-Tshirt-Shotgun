@@ -1,4 +1,6 @@
-November 6 2025
+18.3 Hours
+
+November 6 2025 - 1.0 Hour
 
 Initial Research/Design
 Started with searching up for instructions/designs on homemade single barrel t-shirt cannons, with [this one](https://www.instructables.com/T-shirt-Cannon/) being the one I am most likely going to reference. 
@@ -8,13 +10,13 @@ This is their cannon they made, I am most likely gonna have similar build method
 
 Another reference I will use is [This Air cannon](https://www.instructables.com/How-to-Make-a-Coaxial-Air-Cannon/) that explains more specific steps in making the cannon.
 
-November 13 2025
+November 13 2025 2.8 Hours
 
 Layout Design
 I've finished my layout design for the cannon, with the idea being there is a main Air Tank on top that leads into 2 air tanks below which lead into their own barrel. Essentially the bottom mechanism is the same as [this](https://www.instructables.com/How-To-Build-a-Generic-Air-Cannon/), just repeated twice. The hope is that I will finish cadding the full assembly soon. 
 ![Screenshot 2025-11-13 2.47.02 PM](/user attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA5MTEsInB1ciI6ImJsb2JfaWQifX0=--b68831c4aebfaa394b542c8734430fb7ebf04b16/Screenshot%202025-11-13%202.47.02%20PM.png)
 
-November 14 2025
+November 14 2025 - 5.5
 
 Started BOM And Air Tank CAD
 I've began the BOM on Google spreadsheets and finished roughly the main tank CAD.
@@ -29,7 +31,7 @@ I don’t really have a picture so here’s the tee brass connector I’m using.
 
 ![](https://images.thdstatic.com/productImages/40aace39-ffc9-46e3-b6e6-b5d2ce155184/svn/everbilt-brass-fittings-801959-64_600.jpg)
 
-November 15 2025
+November 15 2025 7.5 Hours
 
 Ok, For real Finished Plumbing I hope
 Ok So after review, I added valves for the firing tanks, found smaller hoses, and changed the plumbing. Here, there is 2 stop valves for adjustable air flow to each firing tank, and instead of a 90 degree valve going down, i realized that is completely useless and instead added 2 90 degrees on the end of the valves for more ideal connection of the hoses.
@@ -57,7 +59,7 @@ First, changed length of the firing barrels. They used to be 18in, but for cost 
 
 I also need to make holders. Since quite literally nothing is holding the cannon actually together, I want to use a combination of 3D printed PETG holders, superglue, and ducttape, but I need to actually design the holders to work on my not supersized printer.
 
-November 16 2025
+November 16 2025 1.5 Hours
 
 ok so about me finishing plumbing
 <img width="829" height="596" alt="image" src="https://github.com/user-attachments/assets/20a56d05-27f1-4eab-a58c-78e997778f5b" />
