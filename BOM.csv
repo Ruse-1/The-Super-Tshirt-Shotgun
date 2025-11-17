@@ -1,7 +1,7 @@
 Bill Of Materials,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Product Name,,Product Link,,Unit Cost,,Product Amount,,Total Cost,,Use of Product
+Product Name,,Product Link,,Unit Cost,,Product Amount,,Total Cost (+ CA Tax),,Use of Product
 ,,,,,,,,,,
 "Standard-Wall Brass Pipe Nipple Threaded on Both Ends, 1/8 NPT, 2"" Long",,https://www.mcmaster.com/4568K113,,$2.82,,3,,$9.07,,"Connectors for each of the air tanks, one for the main and one for each firing tank."
 "304 Stainless Steel Threaded Pipe Fitting Low-Pressure, 90 Degree Adapter, 1/8 NPT Female x Male",,https://www.mcmaster.com/4464K35,,$7.82,,2,,$16.77,,"Connected to the valves, used to face foward so the air hoses aren't making sharp turns. (For safety basically)"
