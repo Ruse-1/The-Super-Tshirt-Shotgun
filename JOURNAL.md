@@ -1,4 +1,4 @@
-16.8 Hours
+17 Hours
 
 November 6 2025 - 1.0 Hour
 
@@ -74,3 +74,8 @@ With Airhose
 <img width="1196" height="685" alt="Screenshot 2025-11-16 191118" src="https://github.com/user-attachments/assets/e559a399-afd4-413c-a812-efb500d24e5f" />
 
 <img width="956" height="783" alt="image" src="https://github.com/user-attachments/assets/d704fb0c-eca4-4b02-9bd8-224beb7f70dc" />
+
+
+November 17 2025 - (0.2 Hour)
+Changes to Design and BOM
+I changed the length of the firing tanks from 16in to 12 in, main reasoning being the price. After trying to order the PVC of the website i was buying, they was charging 100$ shipping, so that immediately wiped any hope of that supplier. So I decided to order off amazon, and I changed the length of the total amount of 3in PVC i would need to 4ft, mainly so I could get a cheaper amount. 
