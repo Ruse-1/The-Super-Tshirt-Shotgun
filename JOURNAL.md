@@ -14,7 +14,7 @@ November 13 2025 2.8 Hours
 
 Layout Design (2.8 Hours)
 I've finished my layout design for the cannon, with the idea being there is a main Air Tank on top that leads into 2 air tanks below which lead into their own barrel. Essentially the bottom mechanism is the same as [this](https://www.instructables.com/How-To-Build-a-Generic-Air-Cannon/), just repeated twice. The hope is that I will finish cadding the full assembly soon. 
-![Screenshot 2025-11-13 2.47.02 PM](/user attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA5MTEsInB1ciI6ImJsb2JfaWQifX0=--b68831c4aebfaa394b542c8734430fb7ebf04b16/Screenshot%202025-11-13%202.47.02%20PM.png)
+
 
 November 14 2025 - 5.5
 
