@@ -1,4 +1,4 @@
-17 Hours
+18.4 Hours
 
 November 6 2025 - 1.0 Hour
 
@@ -76,6 +76,12 @@ With Airhose
 <img width="956" height="783" alt="image" src="https://github.com/user-attachments/assets/d704fb0c-eca4-4b02-9bd8-224beb7f70dc" />
 
 
-November 17 2025 - (0.2 Hour)
-Changes to Design and BOM
-I changed the length of the firing tanks from 16in to 12 in, main reasoning being the price. After trying to order the PVC of the website i was buying, they was charging 100$ shipping, so that immediately wiped any hope of that supplier. So I decided to order off amazon, and I changed the length of the total amount of 3in PVC i would need to 4ft, mainly so I could get a cheaper amount. 
+November 17 2025 - (1.1 Hour)
+Changes in PVC Pipe and CAD update
+I changed the size of the PVC pipe of the firing airtank from 16in length to 12in in length, mainly so I could buy 4ft of PVC instead of 5. I also added "representive" air hoses, mainly for easier visualization. Some last changes are changes in the BOM from suppliers, and finishing up the Repo, but other than that, I am nearly completetion I Think.
+<img width="832" height="474" alt="image" src="https://github.com/user-attachments/assets/f0bc55d0-9ccb-4128-9783-e8742331b37b" />
+
+November 18 2025 - (0.5 Hour)
+Ive began a new design, mainly because after finishing the other one, I realized many ways to make it cheaper, and now, i am cutting out completely 3 airtanks, airhose, and 2 seperate triggers. I am now having one airtank that leads into a valve, with a tee fitting, and that leads to 2 barrels. This hopefully will still provide the same launch distance I will hope for while be far cheaper and hacing the dual firing that I want.
+<img width="831" height="277" alt="image" src="https://github.com/user-attachments/assets/4d4bce09-0954-4e25-a8c3-423396185611" />
+
