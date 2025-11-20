@@ -1,4 +1,4 @@
-18.4 Hours
+18.9 Hours
 
 November 6 2025 - 1.0 Hour
 
@@ -81,7 +81,13 @@ Changes in PVC Pipe and CAD update
 I changed the size of the PVC pipe of the firing airtank from 16in length to 12in in length, mainly so I could buy 4ft of PVC instead of 5. I also added "representive" air hoses, mainly for easier visualization. Some last changes are changes in the BOM from suppliers, and finishing up the Repo, but other than that, I am nearly completetion I Think.
 <img width="832" height="474" alt="image" src="https://github.com/user-attachments/assets/f0bc55d0-9ccb-4128-9783-e8742331b37b" />
 
-November 18 2025 - (0.5 Hour)
+November 19 2025 - (0.5 Hour)
+New Version
 Ive began a new design, mainly because after finishing the other one, I realized many ways to make it cheaper, and now, i am cutting out completely 3 airtanks, airhose, and 2 seperate triggers. I am now having one airtank that leads into a valve, with a tee fitting, and that leads to 2 barrels. This hopefully will still provide the same launch distance I will hope for while be far cheaper and hacing the dual firing that I want.
 <img width="831" height="277" alt="image" src="https://github.com/user-attachments/assets/4d4bce09-0954-4e25-a8c3-423396185611" />
 
+November 20 2025 - (0.5 Hour)
+Finished Version 2 Sketch
+<img src="https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI3MjEsInB1ciI6ImJsb2JfaWQifX0=--48c4fbfffe1a4a3bd9002d98d76fa0d69993455e/image.png" alt="image"/><img width="1001" height="179" alt="image" src="https://github.com/user-attachments/assets/96c1980f-8276-4b21-900c-a00c6d3fed3b" />
+
+Here is the new and improved sketch. At the back is a 12 inch long 3in PVC air tank connected to a coupler and reducer that leads into 1/2NPT plumbing, which breaks in a Tee connector down 2 2 feet 3in Barrels. 
