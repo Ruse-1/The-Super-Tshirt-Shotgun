@@ -88,6 +88,6 @@ Ive began a new design, mainly because after finishing the other one, I realized
 
 November 20 2025 - (0.5 Hour)
 Finished Version 2 Sketch
-<img src="https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI3MjEsInB1ciI6ImJsb2JfaWQifX0=--48c4fbfffe1a4a3bd9002d98d76fa0d69993455e/image.png" alt="image"/><img width="1001" height="179" alt="image" src="https://github.com/user-attachments/assets/96c1980f-8276-4b21-900c-a00c6d3fed3b" />
+<img width="1001" height="179" alt="image" src="https://github.com/user-attachments/assets/1c231dbb-e7eb-47ac-8d90-229e3fabdd18" />
 
 Here is the new and improved sketch. At the back is a 12 inch long 3in PVC air tank connected to a coupler and reducer that leads into 1/2NPT plumbing, which breaks in a Tee connector down 2 2 feet 3in Barrels. 
