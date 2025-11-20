@@ -86,8 +86,12 @@ New Version
 Ive began a new design, mainly because after finishing the other one, I realized many ways to make it cheaper, and now, i am cutting out completely 3 airtanks, airhose, and 2 seperate triggers. I am now having one airtank that leads into a valve, with a tee fitting, and that leads to 2 barrels. This hopefully will still provide the same launch distance I will hope for while be far cheaper and hacing the dual firing that I want.
 <img width="831" height="277" alt="image" src="https://github.com/user-attachments/assets/4d4bce09-0954-4e25-a8c3-423396185611" />
 
-November 20 2025 - (0.5 Hour)
-Finished Version 2 Sketch
+November 20 2025 - (1.7 Hour)
+Finished Version 2 Sketch - (0.5 Hour)
 <img width="1001" height="179" alt="image" src="https://github.com/user-attachments/assets/1c231dbb-e7eb-47ac-8d90-229e3fabdd18" />
 
 Here is the new and improved sketch. At the back is a 12 inch long 3in PVC air tank connected to a coupler and reducer that leads into 1/2NPT plumbing, which breaks in a Tee connector down 2 2 feet 3in Barrels. 
+
+Finished Version 2 CAD - (1.2 Hours)
+<img width="1170" height="731" alt="image" src="https://github.com/user-attachments/assets/dab0f057-1aea-4e9b-9fad-e321a86db868" />
+Version 2 CAD is done! Now at like 200 less dollars than version 1, it now flows into a valve, which releases the air into a tee connector and down the barrels! All that is left is to cad and print holders, and assembly.
