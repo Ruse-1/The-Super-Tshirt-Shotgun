@@ -1,4 +1,4 @@
-20.3 Hours
+20.8 Hours
 
 November 6 2025 - 1.0 Hour
 
@@ -86,7 +86,7 @@ New Version
 Ive began a new design, mainly because after finishing the other one, I realized many ways to make it cheaper, and now, i am cutting out completely 3 airtanks, airhose, and 2 seperate triggers. I am now having one airtank that leads into a valve, with a tee fitting, and that leads to 2 barrels. This hopefully will still provide the same launch distance I will hope for while be far cheaper and hacing the dual firing that I want.
 <img width="831" height="277" alt="image" src="https://github.com/user-attachments/assets/4d4bce09-0954-4e25-a8c3-423396185611" />
 
-November 20 2025 - (1.7 Hour)
+November 20 2025 - (2.4 Hour)
 Finished Version 2 Sketch - (0.5 Hour)
 <img width="1001" height="179" alt="image" src="https://github.com/user-attachments/assets/1c231dbb-e7eb-47ac-8d90-229e3fabdd18" />
 
@@ -100,3 +100,7 @@ Updated BOM - (0.2 Hour)
 <img width="1231" height="433" alt="image" src="https://github.com/user-attachments/assets/c5a87dfc-ee67-42d2-9484-bda6dc6d1f61" />
 FAH I GOT IT UNDER 150!!!
 I have managed to finally get my BOM to a resonable price, I am going for Tier 3 grant and then going to cover the difference.
+
+3D printed holder (0.5 Hour)
+<img width="1064" height="443" alt="image" src="https://github.com/user-attachments/assets/13920354-a02b-464b-ab00-bb07958ecf4d" />
+I made a simple 3D Printed Holder for the barrels which should connect the barrels and also at a place so I can hold the whole cannon. It will be printed out of PETG, mainly because I havent used PETG before and I impulse bought a roll at Maker Fair ¯_(ツ)_/¯
