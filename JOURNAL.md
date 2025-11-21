@@ -95,3 +95,8 @@ Here is the new and improved sketch. At the back is a 12 inch long 3in PVC air t
 Finished Version 2 CAD - (1.2 Hours)
 <img width="1170" height="731" alt="image" src="https://github.com/user-attachments/assets/dab0f057-1aea-4e9b-9fad-e321a86db868" />
 Version 2 CAD is done! Now at like 200 less dollars than version 1, it now flows into a valve, which releases the air into a tee connector and down the barrels! All that is left is to cad and print holders, and assembly.
+
+Updated BOM - (0.2 Hour)
+<img width="1231" height="433" alt="image" src="https://github.com/user-attachments/assets/c5a87dfc-ee67-42d2-9484-bda6dc6d1f61" />
+FAH I GOT IT UNDER 150!!!
+I have managed to finally get my BOM to a resonable price, I am going for Tier 3 grant and then going to cover the difference.
