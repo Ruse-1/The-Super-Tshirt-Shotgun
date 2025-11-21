@@ -1,4 +1,8 @@
 # The-Super-Tshirt-Shotgun
+WARNING: USING PRESSURIZED GAS WITH PVC IS SPECIFICALLY AGAINST MANUFACTURER SPECICFICATIONS. USE SPECIFCALLY RATED PVC FOR ANY PROJECTS SIMILAR TO THIS, IT CAN FAIL AT JOINTS AND CAUSE BODILY HARM.
+^^^
+Also main reasion for use of Mcmaster, I trust them, I would like to be safe :)
+
 A t-shirt cannon that has 2 barrels that fire tshirts, that fire at the same time.
 I made this project because I haven't made my own hardware project before, and I have always wanted to do pneumatics. This seems like a great way to get started with pneumatics, and I got inspired by my Robotics' Team Tshirt Cannon. Also it's cool to say I have a Super Tshirt Shotgun.
 Note: Version 1 is mainly just for archieve purposes, BOM Version 2 is the current updated BOM, any files in Version 1 are not in use.
