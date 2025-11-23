@@ -1,4 +1,4 @@
-20.8 Hours
+21.6 Hours
 
 November 6 2025 - 1.0 Hour
 
