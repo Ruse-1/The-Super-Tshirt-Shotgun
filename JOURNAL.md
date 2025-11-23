@@ -104,3 +104,17 @@ I have managed to finally get my BOM to a resonable price, I am going for Tier 3
 3D printed holder (0.5 Hour)
 <img width="1064" height="443" alt="image" src="https://github.com/user-attachments/assets/13920354-a02b-464b-ab00-bb07958ecf4d" />
 I made a simple 3D Printed Holder for the barrels which should connect the barrels and also at a place so I can hold the whole cannon. It will be printed out of PETG, mainly because I havent used PETG before and I impulse bought a roll at Maker Fair ¯_(ツ)_/¯
+
+November 21 2025 (0.1 Hour)
+Celebration lmao and CAD update
+![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMwNDYsInB1ciI6ImJsb2JfaWQifX0=--c999045dc8e79bc184c88a7503c15c273965463d/image.png)
+This isnt like anything specific i'm literally just celebrating but just so I don't fake hours I am considering painting the PVC colors and like slapping stickers of whatever some people on the HC Slack want lol. I might add like a couple Stickers from some games I like but thats for later
+
+![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMwNTUsInB1ciI6ImJsb2JfaWQifX0=--eb54be2670e7cd8aea5f5f83d76ee601bccae1ef/image.png)
+Also added a 3D printed Brace to help keep thse pipes in place so they dont break my plumbing
+
+November 22 2025 (0.7 Hour)
+Slight Changes cause I goofed
+![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMzNTksInB1ciI6ImJsb2JfaWQifX0=--b91ed517ba8a5c9ce5a7715dac15435b78db255a/image.png)
+First change, instead of having a 1/2NPT Nipple to a 90 degree fitting, the fitting is going to be a male to male 90 degree fitting, it hasn't changed in the cad since I couldn't find a model. I changed the fitting from the airtank to the valve, and made some changes to the BOM since my original one was more expensive than I originally thought, i am trying to have everything come from one or 2 suppliers since it is cheaper to cover the shipping. 
+![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMzNzAsInB1ciI6ImJsb2JfaWQifX0=--adf95dc27df94aaaae61722c0d9bfc02b0199866/image.png)
